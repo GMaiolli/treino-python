@@ -16,5 +16,3 @@ if b - c < a < b + c and a - c < b < a + c and b - a < c < b + a:
         print("As retas {} {} {} formam um triangulo escaleno".format(a, b, c))
 else:
     print("nao eh um triangulo")
-
-#teste
